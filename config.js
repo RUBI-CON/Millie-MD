@@ -19,7 +19,7 @@ global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user
 
 global.devx = 'false'
 
-global.owner = ["918113921898"]
+global.owner = ["917034890656"]
 global.APIs = { // API Prefix
 //======= name: 'https://website' ========//
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -53,12 +53,12 @@ global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
+global.packname = process.env.PACKNAME ||'MISS-DIYA'
+global.author = process.env.AUTHOR ||'Anoop'
 global.name = 'Millie MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| ''
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.wm = process.env.WATERMARK|| 'MISSDIYA '
+global.owner_name = process.env.OWNER_NAME || 'Anoop✨️'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
