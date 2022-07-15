@@ -84,7 +84,7 @@ const connectionOptions = {
   auth: state,
   getMessage: async key => {
     return {
-      conversation: 'ʀᴇᴄᴏɴɴᴇᴄᴛᴇᴅ 🎈'
+      conversation: 'ɪ ᴀᴍ ʙᴀᴄᴋ😌'
     }
   }
 }
