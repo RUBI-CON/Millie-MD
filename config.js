@@ -72,7 +72,7 @@ function convertToBool(text, fault = 'true') {
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'neer_j_'
-global.wait = '_Please Wait_'
+global.wait = '_Please Wait Bro_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
  
