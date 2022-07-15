@@ -73,7 +73,7 @@ global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'neer_j_'
 global.wait = '_Please Wait Bro_'
-global.eror = '_Something went wrong please try again later_'
+global.eror = '_i am Damaged virus-cat please help me😖_'
 global.dtu = 'BOT HELP GROUP'
  
 
