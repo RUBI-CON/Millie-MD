@@ -52,7 +52,7 @@ global.web1 = 'https://neeraj-x0.github.io/'
 global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
 //HEROKU  VARS
-global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
+global.thumburl = process.env.IMAGE || 'https://i.imgur.com/vsv6FY0.jpeg'
 global.packname = process.env.PACKNAME ||'MISS-DIYA'
 global.author = process.env.AUTHOR ||'Anoop'
 global.name = 'MISSDIYA'
